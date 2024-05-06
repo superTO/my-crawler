@@ -13,3 +13,6 @@
 - 問題: npm i puppeteer 執行時, 版本衝突
 
 4. npm i puppeteer -f
+5. remove @bitauth/libauth in package.json
+
+- [reference](https://github.com/bitjson/typescript-starter/issues/250)
